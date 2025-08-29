@@ -5,10 +5,10 @@ A simple Java program developed by alphax.empire to calculate the roots of a qua
 ## How to Use [ON TERMUX]
 
 1. Compile the Java file:
-###javac Quad.java
+##javac Quad.java
 
-2. Run the program
-  ###java Quad
+2. Run the program:
+  ##java Quad
 3. Enter the coefficients when prompted:
 
 Coefficient of :
