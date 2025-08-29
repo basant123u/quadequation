@@ -20,5 +20,6 @@ class Quad
         System.out.println("x = "+x1);
         System.out.println("x = "+x2);
         System.out.println("                                                                          - by alphax");
-        
-        
+    }
+}
+
