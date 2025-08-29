@@ -47,5 +47,3 @@ Make sure the Java file is named Quad.java to match the class name.
 Author
 alphax.empire
 
-
-Just copy and paste this into a file named `README.md` in your project repo! Need it formatted differently or want it expanded?
