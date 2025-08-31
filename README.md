@@ -4,12 +4,17 @@ A simple Java program developed by alphax.empire to calculate the roots of a qua
 
 ## How to Use [ON TERMUX]
 
-1. Compile the Java file:
+*JUST copy and paste the BELOW <4> commands :
+
+git clone https://github.com/basant123u/quadequation.git
+
+cd quadequation
+
 javac Quad.java
 
-2. Run the program:
-   java Quad
-3. Enter the coefficients when prompted:
+java Quad
+
+*Enter the coefficients when prompted:
 
 Coefficient of :
 𝑥²
@@ -27,6 +32,6 @@ The program calculates only real roots. If the roots are complex, it will notify
 
 Make sure the Java file is named Quad.java to match the class name.
 
-#Author
+#Author :
 alphax.empire
 
