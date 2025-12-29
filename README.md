@@ -1,37 +1,36 @@
 # Quadratic Equation Roots Calculator
 
-A simple Java program developed by alphax.empire to calculate the roots of a quadratic equation.
+A simple Java program written by Basant to calculate the roots of a quadratic equation.
 
-## How to Use [ON TERMUX]
+# Usage (Termux)
 
-*JUST copy and paste the BELOW <4> commands :
+JUST copy and paste the BELOW <4> commands :
 
-git clone https://github.com/basant123u/quadequation.git
+> git clone https://github.com/basant123u/quadequation.git
 
-cd quadequation
+> cd quadequation
 
-javac Quad.java
+> javac Quad.java
 
-java Quad
+> java Quad
 
-*Enter the coefficients when prompted:
+## Enter the coefficients when prompted:
 
-Coefficient of :
+> Coefficient of :
 𝑥²
 
-Coefficient of :
+> Coefficient of : 
 𝑥
 
-Constant term (c)
+> Constant term (c)
 
 The program will output the roots of the quadratic equation 
 𝑎𝑥² + b𝑥 + c = 0
 
-
+# Notice
 The program calculates only real roots. If the roots are complex, it will notify that there are no real roots.
 
-Make sure the Java file is named Quad.java to match the class name.
 
 #Author :
-alphax.empire
+Basant
 
